@@ -1,5 +1,5 @@
 # SimpleCalculator
-This is assignment of JDC online class. Give two inputs and calculate. Also control Keyevents enter and tab action. 
+This is assignment of JDC online class.
 
 
 ![cal1](https://user-images.githubusercontent.com/29190392/83966762-3eecc100-a8e2-11ea-81da-a22877305d50.PNG)
